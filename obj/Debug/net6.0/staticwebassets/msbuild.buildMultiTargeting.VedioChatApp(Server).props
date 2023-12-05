@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VedioChatApp(Server).props" />
+</Project>
